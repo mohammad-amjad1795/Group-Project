@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1RiBGvU0_eZwNrMcfgLoHnOwKIIlLYBj-
 
 ## Group project members:
-Mohammad Amjad, Jiayu Shao, Yingzhe Du, Bill Jie Lee
+Mohammad Amjad and 3 other group members
 """
 
 from google.colab import files
